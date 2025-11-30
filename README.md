@@ -6,7 +6,7 @@ This project is a simple Packet Tracer lab demonstrating the fundamental configu
 
 Here is the simple topology used in this lab, consisting of a single switch and a PC for management.
 
-(We will add the topology image link here later)
+<img width="620" height="460" alt="Image" src="https://github.com/user-attachments/assets/f40a8fc9-b6e2-4c04-98c8-a417e7e243ef" />
 
 ---
 ## Configuration Steps
